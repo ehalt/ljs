@@ -1,2 +1,2 @@
-# ljs
+# Learning JavaScript 
 [+] Learning_JavaScript
