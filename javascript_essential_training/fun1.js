@@ -1,0 +1,4 @@
+function example() {
+    console.log('This is an example function');
+}
+example()
