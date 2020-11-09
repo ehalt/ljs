@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Natalie Mante",
+    "email": "Meggie41@gmail.com",
+    "address": {
+      "city": "Bradleyton",
+      "country": "Guatemala",
+      "lat": "11.2495",
+      "long": "-173.8942"
+    }
+  },
+  {
+    "name": "Nathan Brakus",
+    "email": "Maud78@yahoo.com",
+    "address": {
+      "city": "New Bradleychester",
+      "country": "Timor-Leste",
+      "lat": "-87.6797",
+      "long": "-143.8930"
+    }
+  },
+  {
+    "name": "Kevin Kovacek",
+    "email": "Horace_Schiller11@gmail.com",
+    "address": {
+      "city": "Lake Dax",
+      "country": "Palau",
+      "lat": "-62.3013",
+      "long": "59.0304"
+    }
+  },
+  {
+    "name": "Greg White",
+    "email": "Matilde_Macejkovic91@hotmail.com",
+    "address": {
+      "city": "Sonnyville",
+      "country": "Paraguay",
+      "lat": "-12.1066",
+      "long": "59.1006"
+    }
+  },
+  {
+    "name": "Cindy Ferry",
+    "email": "Marc38@yahoo.com",
+    "address": {
+      "city": "Roweshire",
+      "country": "Angola",
+      "lat": "-41.9152",
+      "long": "-39.8575"
+    }
+  },
+  {
+    "name": "Emilio Leuschke III",
+    "email": "Minnie.Cole@yahoo.com",
+    "address": {
+      "city": "South Isabella",
+      "country": "Armenia",
+      "lat": "4.8618",
+      "long": "128.4929"
+    }
+  },
+  {
+    "name": "Jane Breitenberg",
+    "email": "Arlo73@gmail.com",
+    "address": {
+      "city": "Dwighthaven",
+      "country": "Luxembourg",
+      "lat": "33.0795",
+      "long": "-67.3335"
+    }
+  },
+  {
+    "name": "Joann Rodriguez",
+    "email": "Marge_Hayes48@hotmail.com",
+    "address": {
+      "city": "North Reecebury",
+      "country": "Papua New Guinea",
+      "lat": "18.6255",
+      "long": "108.4310"
+    }
+  },
+  {
+    "name": "Gerardo Waelchi",
+    "email": "Dianna_Brown@hotmail.com",
+    "address": {
+      "city": "Letitiaburgh",
+      "country": "Dominica",
+      "lat": "61.8487",
+      "long": "178.0007"
+    }
+  },
+  {
+    "name": "Dr. Krista Marquardt",
+    "email": "Garry_Cormier21@gmail.com",
+    "address": {
+      "city": "Leotown",
+      "country": "Cape Verde",
+      "lat": "-0.8187",
+      "long": "-20.5128"
+    }
+  }
+]
