@@ -10,4 +10,4 @@ while (true) {
     }
 }
 
-console.log(length)
+console.log(length) 
